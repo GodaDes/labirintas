@@ -1,0 +1,17 @@
+{
+  "name": "labirintas",
+  "version": "1.0.0",
+  "description": "projektas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "pirmas",
+    "projektas"
+  ],
+  "author": "Goda",
+  "license": "ISC"
+}
