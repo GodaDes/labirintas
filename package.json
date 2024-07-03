@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "projektas",
   "main": "index.js",
-  "scripts": {
+  "scripts": { 
+    "dev": "dead-server --host=localhost --port=5104",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
